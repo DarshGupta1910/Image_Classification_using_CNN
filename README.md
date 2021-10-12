@@ -1,2 +1,2 @@
-# Image_Classification_using-_CNN
+# Image Classification using CNN
 My college course Neural Networks and Deep Learning Digital Assignment 2
